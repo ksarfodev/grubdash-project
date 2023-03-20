@@ -3,7 +3,7 @@
 A RESTful API built using Express
 ### Routes
 
-# Live Demo API
+#### Live Demo API
 > https://project-grubdash-hybs.onrender.com/
 
 #### `GET /dishes`
